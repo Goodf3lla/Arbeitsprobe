@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="centered_text">Centered Text</string>
+    <string name="below_centered">Hey, welcome to the Motius Test App. Please put two input fields below in order to fake a login / registration screen here. Nothing should happen when clicking the button.</string>
+    <string name="user_name">User Name</string>
+    <string name="password_field">Password Field</string>
+    <string name="LOGIN">LOGIN</string>
+</resources>
